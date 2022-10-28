@@ -10,7 +10,7 @@
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	width: 25%;
+	width: 30%;
 	box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.1),
 		inset 0 0 25px #7e57c2;
 	z-index: 2;
@@ -39,7 +39,7 @@
 	height: 90%;
 	background: white;
 	align-self: center;
-	width: 75%;
+	width: 70%;
 	overflow: scroll;
 	box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.1);
 }
